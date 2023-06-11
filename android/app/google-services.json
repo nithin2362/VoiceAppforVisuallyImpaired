@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "41404559747",
+    "firebase_url": "https://visapp-887af-default-rtdb.firebaseio.com",
+    "project_id": "visapp-887af",
+    "storage_bucket": "visapp-887af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41404559747:android:66f3fa08a28b9df7acc6b6",
+        "android_client_info": {
+          "package_name": "com.example.voice_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41404559747-8ubhg4tpn886v3fk4bcoahurrcnp7nuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKzQuJF4nTS0ykjjx_ZE7ezKoJv8J5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41404559747-8ubhg4tpn886v3fk4bcoahurrcnp7nuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41404559747:android:ac285d9baa71b81eacc6b6",
+        "android_client_info": {
+          "package_name": "com.example.weatherly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41404559747-8ubhg4tpn886v3fk4bcoahurrcnp7nuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKzQuJF4nTS0ykjjx_ZE7ezKoJv8J5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41404559747-8ubhg4tpn886v3fk4bcoahurrcnp7nuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
